@@ -177,7 +177,6 @@ body {
 
 @media (min-width: 767px){
     body{
-        border: 3px solid red;
         display: flex;
         flex-direction: row;
         align-items: center;
